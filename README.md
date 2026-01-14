@@ -88,5 +88,3 @@ By completing this project, I practiced:
 2. Open `index.html` in your web browser.
 
 
-
-Do you want me to do that next?
